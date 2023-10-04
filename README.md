@@ -8,6 +8,7 @@ Root module calls these modules which can also be used separately to create inde
 - [db_subnet_group](https://github.com/terraform-aws-modules/terraform-aws-rds/tree/master/modules/db_subnet_group) - creates RDS DB subnet group
 - [db_parameter_group](https://github.com/terraform-aws-modules/terraform-aws-rds/tree/master/modules/db_parameter_group) - creates RDS DB parameter group
 - [db_option_group](https://github.com/terraform-aws-modules/terraform-aws-rds/tree/master/modules/db_option_group) - creates RDS DB option group
+- [db_option_group3](https://google.com) - creates RDS DB option group
 
 ## Usage
 
